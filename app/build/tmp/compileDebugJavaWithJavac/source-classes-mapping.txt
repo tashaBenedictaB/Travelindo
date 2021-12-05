@@ -1,0 +1,4 @@
+com/example/travelindo/BuildConfig.java
+ com.example.travelindo.BuildConfig
+com/example/travelindo/MainActivity.java
+ com.example.travelindo.MainActivity
